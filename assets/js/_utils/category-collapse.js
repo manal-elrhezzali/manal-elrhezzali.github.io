@@ -10,7 +10,7 @@ $(function() {
   var child_prefix = "l_";
   var parent_prefix = "h_";
 
-  /* close up top-category */
+  /* close up top-categories */
   $(".collapse").on("hide.bs.collapse", function() { /* Bootstrap collapse events. */
     var parent_id = parent_prefix + $(this).attr('id').substring(child_prefix.length);
     if (parent_id) {
@@ -20,7 +20,7 @@ $(function() {
     }
   });
 
-  /* expand the top category */
+  /* expand the top categories */
   $(".collapse").on("show.bs.collapse", function() {
     var parent_id = parent_prefix + $(this).attr('id').substring(child_prefix.length);
     if (parent_id) {

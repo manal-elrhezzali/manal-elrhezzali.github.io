@@ -36,7 +36,7 @@ title: Categories
     {% assign sub_categories_size = sub_categories | size %}
 
   <div class="card categories">
-    <!-- top-category -->
+    <!-- top-categories -->
     <div class="card-header d-flex justify-content-between hide-border-bottom"
         id="{{ HEAD_PREFIX }}{{ group_index }}">
       <span>

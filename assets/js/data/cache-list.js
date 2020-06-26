@@ -18,7 +18,7 @@ const include = [
   '{{ "/assets/css/archives.css" | relative_url }}',
   '{{ "/assets/css/page.css" | relative_url }}',
   '{{ "/assets/css/post.css" | relative_url }}',
-  '{{ "/assets/css/category-tag.css" | relative_url }}',
+  '{{ "/assets/css/categories-tag.css" | relative_url }}',
   '{{ "/assets/css/lib/bootstrap-toc.min.css" | relative_url }}',
 
   /*--- Javascripts ---*/

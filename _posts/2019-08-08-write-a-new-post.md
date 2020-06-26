@@ -57,7 +57,7 @@ and the content of a *category* type page is
 
 ```yaml
 ---
-layout: category
+layout: categories
 title: CATEGORY_NAME        # e.g. Insect
 category: CATEGORY_NAME     # e.g. Insect
 ---
