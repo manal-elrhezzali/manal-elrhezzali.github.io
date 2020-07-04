@@ -11,7 +11,7 @@ pin: true
 
 
 
-## Introduction
+## **Introduction**
 
 Greetings!
 
@@ -23,7 +23,7 @@ reusable software environment that provides particular functionality(like web de
  Applications could then in turn utilize these projects along with the spring framework,
  to even further simplify their development.
  
-## The six key areas of the spring framework
+## **The six key areas of the spring framework**
 
 The spring framework utilizes a modular architecture meaning that it’s broken up into separate individual 
 components that can be connected together and each of those components is then responsible 
@@ -31,7 +31,7 @@ for providing a set of functionality and together as a whole they make up the sp
 
 ![Spring's six keys ]({{ "/assets/img/sample/firstBlog/sixKeys.png" | relative_url }})
 
-#### Spring core
+#### **Spring core**
 
 Spring core is one of the most important ,
 if not the most important pieces of the spring framework.
@@ -68,7 +68,7 @@ glue of the application,as it’s the thing that pieces
 together and manages many individual parts that form the 
 application.
 
-#### Spring Web
+#### **Spring Web**
 
 Spring Web is a framework for handling web requests.
 Web requests can be handled in one of the two different ways either via:
@@ -125,7 +125,7 @@ the operation is complete and continues executing other operations when
 it’s observed that the operation is complete, the code can continue executing 
 subsequent steps) and this results in better resource utilization.
 
-#### Spring AOP
+#### **Spring AOP**
 
 In order to understand what Spring AOP is ,we first have to understand what AOP is.
 **AOP** stands for Aspect-Oriented Programming .
@@ -150,7 +150,7 @@ In order to understand what Spring AOP is ,we first have to understand what AOP 
       
      ![Spring Example2 ]({{ "/assets/img/sample/firstBlog/example2.png" | relative_url }})
 
-#### Spring Data Access
+#### **Spring Data Access**
 
 * The Spring Framework’s Data Access module makes it easier to develop 
 applications that interact with data and it removes a ton of **boilerplate 
@@ -192,7 +192,7 @@ with little or no alteration.)
 
    ![EmbeddedDB]({{ "/assets/img/sample/firstBlog/EmbeddedDB.png" | relative_url }})
   
-#### Spring Integration
+#### **Spring Integration**
 
 In this section ,we will briefly take a look at the features that the Spring Framework provides for integration.
 
@@ -221,7 +221,7 @@ In this section ,we will briefly take a look at the features that the Spring Fra
 * **RestTemplate** makes calling web services as easy as one line.
 * **Just call the service** and RestTemplate **takes care of the “rest”**.
 
-#### Spring Integration
+#### **Spring Integration**
 
 * Testing is an important part of developing software , 
 so it’s no surprise that the Spring Framework strives to 
