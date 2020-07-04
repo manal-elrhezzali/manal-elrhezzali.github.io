@@ -75,55 +75,55 @@ Web requests can be handled in one of the two different ways either via:
 **Spring Web MVC** or **Spring Web Webflux**
 
 1. **Spring Web MVC** :
-* Java language introduced very basic support for interacting with the web via a built-in framework called the **Servlet API**
-(**Servlet component**)
+   * Java language introduced very basic support for interacting with the web via a built-in framework called the **Servlet API**
+     (**Servlet component**)
 
-* **A servlet**: is an object that receives a request and generates a response based on that request.
+   * **A servlet**: is an object that receives a request and generates a response based on that request.
 
-* This is what a standard web request using **servlet API** looks like:
+   * This is what a standard web request using **servlet API** looks like:
 
-![Spring web  ]({{ "/assets/img/sample/firstBlog/springMvc.png" | relative_url }})
+     ![Spring web  ]({{ "/assets/img/sample/firstBlog/springMvc.png" | relative_url }})
 
-* **Challenges with Servlet API**: low-level API 
-(it’s more detailed and offers less way of abstracting 
-complexity => less productive) and easy to mix-up 
-concerns(easy to develop application logic that lacks proper design principles.
-Code can quickly become unorganized and hard to maintain).
+   * **Challenges with Servlet API**: low-level API 
+    (it’s more detailed and offers less way of abstracting 
+    complexity => less productive) and easy to mix-up 
+    concerns(easy to develop application logic that lacks proper design principles.
+    Code can quickly become unorganized and hard to maintain).
 
-* This is what a standard web request using Spring Web MVC looks like:
+   * This is what a standard web request using Spring Web MVC looks like:
 
-![Spring Web MVC ]({{ "/assets/img/sample/firstBlog/springWebMVC.png" | relative_url }})
+     ![Spring Web MVC ]({{ "/assets/img/sample/firstBlog/springWebMVC.png" | relative_url }})
 
-the request starts off the same entering the webserver and 
-passing through the servlet API ,however,instead of going 
-directly to the business logic ,it’s sent through to the Spring 
-web Mvc Framework.The business logic can then make use of Spring 
-Web MVC,generate a result, and pass control back to Spring Web MVC ,
-which in turn can pass control back to the Servlet API ,and ultimately 
-generate a response.
+     the request starts off the same entering the webserver and 
+     passing through the servlet API ,however,instead of going 
+     directly to the business logic ,it’s sent through to the Spring 
+     web Mvc Framework.The business logic can then make use of Spring 
+     Web MVC,generate a result, and pass control back to Spring Web MVC ,
+     which in turn can pass control back to the Servlet API ,and ultimately 
+     generate a response.
 
-* **Advantage of Spring MVC**: it provides a higher-level API for the developer to interact with,
- and this results in easier usage and more productivity and easier 
- to develop code that follows proper design principles. 
+   * **Advantage of Spring MVC**: it provides a higher-level API for the developer to interact with,
+     and this results in easier usage and more productivity and easier 
+     to develop code that follows proper design principles. 
 
 2. **Spring Webflux** :
 
 In order to understand Spring Webflux purpose we first need to 
 understand something called reactive programming.
 
-* **Reactive Programming**: is a way of  programming that 
-focuses on the streams  of data and how they change .
-And the key idea behind Reactive Programming is that react 
-to change rather than wait for change.
+   * **Reactive Programming**: is a way of  programming that 
+     focuses on the streams  of data and how they change .
+     And the key idea behind Reactive Programming is that react 
+     to change rather than wait for change.
 
-* Spring reactive programming framework is called Spring  Webflux ,
-it’s primary purpose is still to handle web requests but the way in 
-which it handles them is different.Specifically,
-web requests are executed **asynchronously**,and they don’t 
-block or wait (**how that is it work?** -->the code asks to be notified when 
-the operation is complete and continues executing other operations when 
-it’s observed that the operation is complete, the code can continue executing 
-subsequent steps) and this results in better resource utilization.
+   * Spring reactive programming framework is called Spring  Webflux ,
+     it’s primary purpose is still to handle web requests but the way in 
+     which it handles them is different.Specifically,
+     web requests are executed **asynchronously**,and they don’t 
+     block or wait (**how that is it work?** -->the code asks to be notified when 
+     the operation is complete and continues executing other operations when 
+     it’s observed that the operation is complete, the code can continue executing 
+     subsequent steps) and this results in better resource utilization.
 
 #### **Spring AOP**
 
