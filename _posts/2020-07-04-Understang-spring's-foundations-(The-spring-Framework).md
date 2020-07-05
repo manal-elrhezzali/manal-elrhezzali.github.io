@@ -32,7 +32,7 @@ for providing a set of functionality and together as a whole they make up the sp
 
 ![Spring's six keys ]({{ "/assets/img/sample/firstBlog/sixKeys.png" | relative_url }})
 
-#### **Spring core**
+####1- **Spring core**
 
 Spring core is one of the most important ,
 if not the most important pieces of the spring framework.
@@ -69,7 +69,7 @@ glue of the application,as it’s the thing that pieces
 together and manages many individual parts that form the 
 application.
 
-#### **Spring Web**
+####2- **Spring Web**
 
 Spring Web is a framework for handling web requests.
 Web requests can be handled in one of the two different ways either via:
@@ -126,7 +126,7 @@ understand something called reactive programming.
      it’s observed that the operation is complete, the code can continue executing 
      subsequent steps) and this results in better resource utilization.
 
-#### **Spring AOP**
+####3- **Spring AOP**
 
 In order to understand what Spring AOP is ,we first have to understand what AOP is.
 **AOP** stands for Aspect-Oriented Programming .
@@ -151,7 +151,7 @@ In order to understand what Spring AOP is ,we first have to understand what AOP 
       
      ![Spring Example2 ]({{ "/assets/img/sample/firstBlog/example2.png" | relative_url }})
 
-##### Thas was all for this blog,I hope you enjoy it and you understood all the points that we have touched on.In the next blog,we will talk about the remaining three key areas of the spring framework.Thank you for reading! If you enjoyed it, please  upvote 👍 it.
+##### That was all for this blog,I hope you enjoy it and you understood all the points that we have touched on.In the next blog,we will talk about the remaining three key areas of the spring framework.Thank you for reading! If you enjoyed it, please  upvote 👍 it.
 
 
 
