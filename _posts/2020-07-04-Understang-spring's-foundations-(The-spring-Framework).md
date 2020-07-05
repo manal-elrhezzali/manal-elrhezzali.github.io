@@ -1,7 +1,7 @@
 ---
 title: Understanding spring’s foundations (The spring Framework)
 author: El-rhezzali Manal
-date: 2020-07-04 15:04:00 +0800
+date: 2020-07-05 18:30:00 +0800
 categories: [Blogging, Tutorial]
 tags: [spring]
 pin: true
@@ -151,10 +151,7 @@ In order to understand what Spring AOP is ,we first have to understand what AOP 
       
      ![Spring Example2 ]({{ "/assets/img/sample/firstBlog/example2.png" | relative_url }})
 
-##### Thank you for reading! If you enjoyed it, please clap upvote 👍 it.
-
-
-
+##### Thas was all for this blog,I hope you enjoy it and you understood all the points that we have touched on.In the next blog,we will talk about the remaining three key areas of the spring framework.Thank you for reading! If you enjoyed it, please  upvote 👍 it.
 
 
 

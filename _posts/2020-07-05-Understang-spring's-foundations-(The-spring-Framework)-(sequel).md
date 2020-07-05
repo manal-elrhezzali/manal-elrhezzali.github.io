@@ -152,4 +152,4 @@ testing .
         affect the next tests.
 
 
-##### Thank you for reading! If you enjoyed it, please clap upvote 👍 it.
+##### Thank you for reading! If you enjoyed it, please upvote 👍 it.
