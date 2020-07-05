@@ -14,7 +14,7 @@ pin: true
 ## **Introduction**
 
 Greetings!
- Today we're going to talk about **three out of six**key areas of the spring framework.
+ Today we're going to talk about **three out of six** key areas of the spring framework.
  The spring Framework is a universal,
  reusable software environment that provides particular functionality(like web development and data access)
  as a part of a larger software platform to facilitate development of software applications,solutions and products.
@@ -32,7 +32,7 @@ for providing a set of functionality and together as a whole they make up the sp
 
 ![Spring's six keys ]({{ "/assets/img/sample/firstBlog/sixKeys.png" | relative_url }})
 
-####1- **Spring core**
+#### 1. **Spring core**
 
 Spring core is one of the most important ,
 if not the most important pieces of the spring framework.
@@ -69,7 +69,7 @@ glue of the application,as it’s the thing that pieces
 together and manages many individual parts that form the 
 application.
 
-####2- **Spring Web**
+#### 2. **Spring Web**
 
 Spring Web is a framework for handling web requests.
 Web requests can be handled in one of the two different ways either via:
@@ -126,7 +126,7 @@ understand something called reactive programming.
      it’s observed that the operation is complete, the code can continue executing 
      subsequent steps) and this results in better resource utilization.
 
-####3- **Spring AOP**
+#### 3. **Spring AOP**
 
 In order to understand what Spring AOP is ,we first have to understand what AOP is.
 **AOP** stands for Aspect-Oriented Programming .

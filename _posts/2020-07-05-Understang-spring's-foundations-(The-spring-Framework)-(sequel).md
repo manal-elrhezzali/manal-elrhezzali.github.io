@@ -32,7 +32,7 @@ for providing a set of functionality and together as a whole they make up the sp
 
 ![Spring's six keys ]({{ "/assets/img/sample/firstBlog/sixKeys.png" | relative_url }})
 
-####1- **Spring Data Access**
+#### 1. **Spring Data Access**
 
 * The Spring Framework’s Data Access module makes it easier to develop 
 applications that interact with data and it removes a ton of **boilerplate 
@@ -74,7 +74,7 @@ with little or no alteration.)
 
    ![EmbeddedDB]({{ "/assets/img/sample/firstBlog/EmbeddedDB.png" | relative_url }})
   
-####2- **Spring Integration**
+#### 2. **Spring Integration**
 
 In this section ,we will briefly take a look at the features that the Spring Framework provides for integration.
 
@@ -103,7 +103,7 @@ In this section ,we will briefly take a look at the features that the Spring Fra
 * **RestTemplate** makes calling web services as easy as one line.
 * **Just call the service** and RestTemplate **takes care of the “rest”**.
 
-####3- **Spring Testing**
+#### 3. **Spring Testing**
 
 * Testing is an important part of developing software , 
 so it’s no surprise that the Spring Framework strives to 
