@@ -2,7 +2,7 @@
 title: Understanding spring’s foundations (The spring Framework) (sequel)
 author: El-rhezzali Manal
 date: 2020-07-05 15:04:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Blogging]
 tags: [spring]
 pin: true
 ---
