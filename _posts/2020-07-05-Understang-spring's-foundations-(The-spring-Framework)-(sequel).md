@@ -152,4 +152,4 @@ testing .
         affect the next tests.
 
 
-##### Now that we talked about all the six key areas of the spring framework,we can address another topic in the following blog .Thank you for reading! If you enjoyed it, please upvote 👍 it.
+##### Now that we talked about all the six key areas of the spring framework,we can address another topic in the following blog .Thank you for reading it! If you enjoyed it, please upvote 👍 it.
