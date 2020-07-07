@@ -11,7 +11,7 @@ pin: true
 
 
 
-## **Introduction**
+## A- **Introduction**
 
 Greetings!
  Today we're going to talk about **three out of six** key areas of the spring framework.
@@ -24,7 +24,7 @@ Greetings!
  to even further simplify their development. 
  
  
-## **Three out of six key areas of the spring framework**
+## B- **Three out of six key areas of the spring framework**
 
 The spring framework utilizes a modular architecture meaning that it’s broken up into separate individual 
 components that can be connected together and each of those components is then responsible 
@@ -151,7 +151,7 @@ In order to understand what Spring AOP is ,we first have to understand what AOP 
       
      ![Spring Example2 ]({{ "/assets/img/sample/firstBlog/example2.png" | relative_url }})
 
-##### That was all for this blog,I hope you enjoy it and you understood all the points that we have touched on.In the next blog,we will talk about the remaining three key areas of the spring framework.Thank you for reading! If you enjoyed it, please  upvote 👍 it.
+##### That was all for this blog,I hope you enjoyed it and you understood all the points that we have touched on.In the next blog,we will talk about the remaining three key areas of the spring framework.Thank you for reading my blog! And don't forget to upvote 👍 it.
 
 
 
