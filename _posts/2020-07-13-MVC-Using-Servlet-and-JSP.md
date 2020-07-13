@@ -82,4 +82,4 @@ Next, let's write our presentation layer **student-record.jsp**:
 
 And of course, the JSP is the view of the application; it receives all the information it needs from the Controller, it doesn’t need to interact with the business layer directly.
 
-#####In this blog , we've learned about the MVC i.e. Model View Controller architecture, and we focused on how to implement a simple example.
+##### In this blog , we've learned about the MVC i.e. Model View Controller architecture, and we focused on how to implement a simple example.I hope you enjoyed it and you understood all the points that we have touched on.Thank you for reading my blog! And don't forget to upvote 👍 it.
