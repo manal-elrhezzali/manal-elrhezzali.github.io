@@ -7,7 +7,7 @@ tags: [Servlet]
 pin: true
 ---
 
-## A- **Introduction**
+
 
 
 Greetings!
@@ -18,7 +18,7 @@ Servlets are the Java programs that runs on the Java-enabled web server or appli
 They are used to handle the request obtained from the web server, **process the request**, **produce the response**,
 then **send response back to the web server**.
 
-## B- **Calling A Servlet from another Servlet**
+##  **Calling A Servlet from another Servlet**
 
  
 Let’s say you have an index.html page wich contains a form :
