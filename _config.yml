@@ -14,9 +14,7 @@ tagline: Futur Software Engineer .  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   portfolio, sidebar, side project,spring,java,spring boot,docker,devops
-    
-I am a highly motivated engineering student, passionate about web and mobile development, seeking to enrich my knowledge and skills.
-I aspire to become a spectacular future engineer capable of helping and guiding students in the same field.
+    I am a highly motivated engineering student, passionate about web and mobile development, seeking to enrich my knowledge and skills. I aspire to become a spectacular future engineer capable of helping and guiding students in the same field.
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://manal-rzzl.netlify.app'
 
