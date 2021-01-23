@@ -8,19 +8,19 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: El-rhezzali Manal                      # the main title
+title: EL RHEZZALI Manal                      # the main title
 
-tagline: Spring & Java Developer .  # it will display as the sub-title
+tagline: Futur Software Engineer .  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   portfolio, sidebar, side project,spring,java,spring boot,docker,devops
-    I'm a software engineer based in Morocco, focused on the Java ,Spring ecosystem and DevOps
-    to build and deploy high-quality software and application .
-
+    
+I am a highly motivated engineering student, passionate about web and mobile development, seeking to enrich my knowledge and skills.
+I aspire to become a spectacular future engineer capable of helping and guiding students in the same field.
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://manal-rzzl.netlify.app'
 
-author: El-rhezzali Manal                 # change to your full name
+author: EL RHEZZALI Manal                 # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
