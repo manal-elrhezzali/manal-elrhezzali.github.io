@@ -8,6 +8,6 @@ title: About
 # MIT License
 ---
 
-Hi there!
+Hi there 👋🏻!
 
-Thanks for visiting my blog, I hope you liked the content . 
+Thanks for visiting my blog, I hope you liked the content. I've been busy lately but I'll try to blog consistently starting from february 2021, so stay tuned 😉 .
